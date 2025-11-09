@@ -1,0 +1,25 @@
+// pseudo for CT1
+
+ - begin with a "string" function prompt to get the first and last name of the person 
+ 
+ user input: 
+ first name = "clark" 
+ last name = "kent" 
+ 
+ 
+ - followed by another "string" function to get the address (address, city, zip code) 
+ 
+ user input: 
+ 344 clinton st, apt 3b (address) 
+ Metropolis (city) 
+ 0021 (zip) 
+ 
+ 
+ - preform a system.out.print function for the aboove string data 
+ 
+output: 
+PRINTS - Clark (firstname) 
+PRINTS - Kent (lastname) 
+PRINTS - Metropolis (city) 
+PRINTS - 344 clinton street apt 3b (address) 
+PRINTS - 0021 (zip) 
